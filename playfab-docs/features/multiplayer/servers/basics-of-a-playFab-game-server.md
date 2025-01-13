@@ -40,7 +40,7 @@ When a Linux build is created through Game Manager or APIs like [CreateBuildWith
 
 PlayFab currently supports one managed container; the PlayFab Multiplayer container image, based on Windows Server Core. You can download this container through [Docker Hub](https://hub.docker.com/r/microsoft/playfab-multiplayer/) so that your local environment matches the runtime environment in Azure.
 
-There are debugging tools that allow you to step through the multiplayer server state machine locally on your dev box.
+There are debugging tools that allow you to step through the (https://winboxplay.my/)multiplayer server state machine locally on your dev box.
 
 For more information, check out [Locally debugging game servers and integration with PlayFab](locally-debugging-game-servers-and-integration-with-playfab.md).
 
